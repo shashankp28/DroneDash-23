@@ -1,0 +1,5 @@
+numpy
+rospy
+tensorflow
+matplotlib
+sensor_msgs
